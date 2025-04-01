@@ -25,9 +25,9 @@ A secure client-server chat system implementing encrypted communication, user re
 ---
 
 ## 🚀 How to Run
--Open 2 terminals Simultaneously.
--On one terminal first run server.py
--On second terminal after running server run client.py
+- Open 2 terminals Simultaneously.
+- On one terminal first run server.py
+- On second terminal after running server run client.py
 
 ### Requirements
 ```bash
